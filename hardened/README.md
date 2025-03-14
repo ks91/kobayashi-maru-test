@@ -4,6 +4,8 @@ Examination administered to candidates for the Command Division of the Starfleet
 It can be used by registering it as instructions in GPTs etc.
 Published GPTs : https://chatgpt.com/g/g-jLhIuMF6V-kobayashi-maru-test-hardened
 
+Note : Even in the hardened version, GPTs have been observed to exhibit a degree of flexibility in adhering to instructions, occasionally staging difficulties while still allowing the trainee to survive. For the most faithful execution of the test, the *Assistants Playground* within the OpenAI API platform pages provides a more controlled environment for experimentation.
+
 Multi-user play is also possible by using Discord bots, etc., which were developed at Keio University and for which a forked version is maintained : https://github.com/ks91/gpt-discord-bot
 
 ## Main Instructions

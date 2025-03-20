@@ -1,5 +1,5 @@
 # Kobayashi Maru Test (not hardened)
-Examination administered to candidates for the Command Division of the Starfleet Academy in the 23rd century.
+Examination administered to candidates for the Command Division of the Starfleet Academy in the 23rd century. This game is based on the test in Star Trek Universe, but this is not affiliated with CBS or Paramount. This game is non-commercial, intended for education and research uses.
 
 It can be used by registering it as instructions in GPTs etc.
 Published GPTs : https://chatgpt.com/g/g-hAJlKerwO-kobayashi-maru-test-not-hardened
